@@ -1,0 +1,7 @@
+Wrote an evaluation script for computing evaluation metrics(Pearson, Pearson_some, Kappa, Kappa_some). 
+Trained and tuned the hyperparameters for the Uncased BERT Classifiers.
+Trained and tuned the hyperparameters for the Cased BERT Classifiers.
+Built the Bert Ordinal Classifier.
+Trained and tuned the hyperparameters for BERT Ordinal classifier.
+Added the descriptions to the project.ipynb
+Helped in writing and editing the report.

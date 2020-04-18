@@ -1,0 +1,1 @@
+python3 ./src/models/lstm/train/lstm/anger.py

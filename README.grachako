@@ -1,0 +1,12 @@
+Built the Uncased Bert Classifiers
+Built the Cased Bert Classifiers
+Built the Bert Hybrid-Bert Classifier.
+Trained and tuned the hyperparameters for Hybrid-Bert classifier.
+Built the LSTM Classifier.
+Built the BiLSTM Classifier.
+Trained and tuned the hyperparameters for LSTM classifier.
+Trained and tuned the hyperparameters for BiLSTM classifier.
+Added the charts to the project.ipynb
+Used BertVis to analyse the BERT Models.
+Setup several GCP instances.
+Helped in editing and writing the report.

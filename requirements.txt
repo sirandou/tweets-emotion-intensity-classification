@@ -1,0 +1,8 @@
+pandas
+emoji
+scikit-learn
+numpy
+nltk
+torch
+torchtext
+transformers==2.4.1

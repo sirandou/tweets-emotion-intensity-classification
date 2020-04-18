@@ -1,0 +1,1 @@
+Add the glove.twitter.27B.200d.txt embeddings to this folder.

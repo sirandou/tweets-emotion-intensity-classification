@@ -1,0 +1,6 @@
+Trained and tuned the hyperparameters for the Uncased BERT classifiers.
+Trained and tuned the hyperparameters for the Cased BERT classifiers.
+Trained and tuned the hyperparameters for LSTM classifier.
+Configured GPU instances.
+Modified the project.ipynb
+Wrote project report.
